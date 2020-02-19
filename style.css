@@ -1,0 +1,22 @@
+.div
+{
+	border:1px solid;
+	width:1280px;
+}
+.first
+{
+	background:url('Assignment-3-img.jpg') no-repeat; 
+    	height:280px; 
+}
+.second 
+{
+	background:url('Assignment-3-img.jpg') no-repeat bottom; 
+    	height:300px; 
+}
+.last img
+{
+	hight:300px;
+	width:500px;
+	repeat:no-repeate;
+		
+}
